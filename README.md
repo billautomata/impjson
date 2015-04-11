@@ -1,6 +1,8 @@
 # impjson - imprecise json
 imprecise json - reduce float precision and reduce file size - great for auto-generated json
 
+`npm install -g impjson`
+
 `impjson -i input.json -o output.json -p 4`
 
 `impjson -i input.json -p 1 > output.json`
